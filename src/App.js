@@ -8,7 +8,7 @@ class App extends Component {
     super();
     this.state = {
       counter: 0,
-      stack: ['hey','ho','hi','ah'],
+      stack: ['Nasus','Darius','Poppy','Teemo','Rengar','Arrête de clicker','Ahri','Trundle','Kayle','Velkoz','Lucian','Ta pas mieux à faire ?','lux','Khazix','Ashe','Garen','pantheon','Rumble','Annie','Jhin','Syndra','Cassiopia','Reksai','Tryndamere','Jax','Olaf']
     }
   }
 
